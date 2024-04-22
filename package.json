@@ -1,0 +1,17 @@
+{
+  "name": "app-toggle-example",
+  "version": "1.0.0",
+  "description": "An example to showcase the toggle between any banking app and the Wellthi app",
+  "main": "index.js",
+  "repository": "git@github.com:Invest-Sou-Sou/app-toggle-example.git",
+  "author": "Ali El-Wafdy <elwafdy@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-native": "^0.74.0",
+    "react-native-svg": "^15.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.79"
+  }
+}
